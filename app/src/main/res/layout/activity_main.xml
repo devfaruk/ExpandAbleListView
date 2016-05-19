@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FF138985"
+    android:orientation="vertical"
+    tools:context="com.example.jagroto.expandablelistview.MainActivity">
+
+    <ExpandableListView
+        android:id="@+id/expandablelistview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </ExpandableListView>
+</LinearLayout>
